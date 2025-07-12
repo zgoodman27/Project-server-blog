@@ -1,0 +1,20 @@
+[
+  {
+    "post_id": 1,
+    "title": "First Blog Post",
+    "author": "Paul Niemczyk",
+    "body": "These student devs keep getting younger and smarter"
+  },
+  {
+    "post_id": 2,
+    "title": "next Blog Post",
+    "author": "Paul Niemczyk",
+    "body": "These student devs keep getting better and better"
+  },
+  {
+    "title": "another Blog Post",
+    "author": "Paul Niemczyk",
+    "body": "These student devs keep getting better and better",
+    "post_id": 3
+  }
+]
